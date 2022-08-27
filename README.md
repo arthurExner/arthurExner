@@ -1,9 +1,6 @@
 ## Hi, I'm Arthur Exner!
 
 <img src="https://ouch-cdn2.icons8.com/ymi5itsPtvHUBuplW45dbVlFPXQCKeympxOxTq_zTXY/rs:fit:256:291/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMjUz/LzkwMmM5OWMzLTZm/NzYtNDY5OC05ODI5/LWZkNGNmODQwNWJj/Mi5zdmc.png" width="70" style="-webkit-transform: rotate(-90deg)">
-<img src="https://ouch-cdn2.icons8.com/ymi5itsPtvHUBuplW45dbVlFPXQCKeympxOxTq_zTXY/rs:fit:256:291/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMjUz/LzkwMmM5OWMzLTZm/NzYtNDY5OC05ODI5/LWZkNGNmODQwNWJj/Mi5zdmc.png" width="70" style="-webkit-transform: rotate(90deg)">
-<img src="https://ouch-cdn2.icons8.com/ymi5itsPtvHUBuplW45dbVlFPXQCKeympxOxTq_zTXY/rs:fit:256:291/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMjUz/LzkwMmM5OWMzLTZm/NzYtNDY5OC05ODI5/LWZkNGNmODQwNWJj/Mi5zdmc.png" width="70" style="-webkit-transform: rotate(-90deg)">
-<img src="https://ouch-cdn2.icons8.com/ymi5itsPtvHUBuplW45dbVlFPXQCKeympxOxTq_zTXY/rs:fit:256:291/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMjUz/LzkwMmM5OWMzLTZm/NzYtNDY5OC05ODI5/LWZkNGNmODQwNWJj/Mi5zdmc.png" width="70" style="-webkit-transform: rotate(90deg)">
 
 ---
 
