@@ -1,11 +1,9 @@
 ## Hi, I'm Arthur Exner!
 
-<div style="text-align: center">
 <img src="https://ouch-cdn2.icons8.com/ymi5itsPtvHUBuplW45dbVlFPXQCKeympxOxTq_zTXY/rs:fit:256:291/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMjUz/LzkwMmM5OWMzLTZm/NzYtNDY5OC05ODI5/LWZkNGNmODQwNWJj/Mi5zdmc.png" width="70" style="-webkit-transform: rotate(-90deg)">
 <img src="https://ouch-cdn2.icons8.com/ymi5itsPtvHUBuplW45dbVlFPXQCKeympxOxTq_zTXY/rs:fit:256:291/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMjUz/LzkwMmM5OWMzLTZm/NzYtNDY5OC05ODI5/LWZkNGNmODQwNWJj/Mi5zdmc.png" width="70" style="-webkit-transform: rotate(90deg)">
 <img src="https://ouch-cdn2.icons8.com/ymi5itsPtvHUBuplW45dbVlFPXQCKeympxOxTq_zTXY/rs:fit:256:291/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMjUz/LzkwMmM5OWMzLTZm/NzYtNDY5OC05ODI5/LWZkNGNmODQwNWJj/Mi5zdmc.png" width="70" style="-webkit-transform: rotate(-90deg)">
 <img src="https://ouch-cdn2.icons8.com/ymi5itsPtvHUBuplW45dbVlFPXQCKeympxOxTq_zTXY/rs:fit:256:291/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMjUz/LzkwMmM5OWMzLTZm/NzYtNDY5OC05ODI5/LWZkNGNmODQwNWJj/Mi5zdmc.png" width="70" style="-webkit-transform: rotate(90deg)">
-</div>
 
 ---
 
@@ -18,7 +16,7 @@
 
 Java |Javascript | HTML5 | CSS3| MySQL | Git | GitHub
 -----|------------|-------|------|-------|-----|-------
-<img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="50" title="Java"> | <img src="https://img.icons8.com/color/344/javascript--v1.png" width="45" title="Javascript" style="padding-left: 10px"> | <img src="https://img.icons8.com/external-those-icons-flat-those-icons/344/external-HTML5-programming-and-development-those-icons-flat-those-icons.png" width="35" title="HTML5" style="padding-left: 8px"> | <img src="https://img.icons8.com/color/344/css3.png" width="45" title="CSS3"> | <img src="https://img.icons8.com/color/344/mysql-logo.png" width="46" title="MySQL"> | <img src="https://img.icons8.com/color/344/git.png" width="45" title="Git" > | <img src="https://img.icons8.com/3d-fluency/344/github.png" width="45" title="Github">
+<img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="50" title="Java"> | <img src="https://img.icons8.com/color/344/javascript--v1.png" width="50" title="Javascript" style="padding-left: 10px"> | <img src="https://img.icons8.com/external-those-icons-flat-those-icons/344/external-HTML5-programming-and-development-those-icons-flat-those-icons.png" width="35" title="HTML5" style="padding-left: 8px"> | <img src="https://img.icons8.com/color/344/css3.png" width="45" title="CSS3"> | <img src="https://img.icons8.com/color/344/mysql-logo.png" width="46" title="MySQL"> | <img src="https://img.icons8.com/color/344/git.png" width="45" title="Git" > | <img src="https://img.icons8.com/3d-fluency/344/github.png" width="45" title="Github">
 
 
 ---
