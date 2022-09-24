@@ -2,7 +2,7 @@
 
 #### I am a person who loves to learn, loves music, loves nature, loves people and most recently learned to love the IT world! 
 
-<img src="https://ouch-cdn2.icons8.com/ymi5itsPtvHUBuplW45dbVlFPXQCKeympxOxTq_zTXY/rs:fit:256:291/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMjUz/LzkwMmM5OWMzLTZm/NzYtNDY5OC05ODI5/LWZkNGNmODQwNWJj/Mi5zdmc.png" width="250" align="right">
+<img src="https://ouch-cdn2.icons8.com/ymi5itsPtvHUBuplW45dbVlFPXQCKeympxOxTq_zTXY/rs:fit:256:291/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMjUz/LzkwMmM5OWMzLTZm/NzYtNDY5OC05ODI5/LWZkNGNmODQwNWJj/Mi5zdmc.png" width="300" align="right">
 
 #### I've studied and worked with chemistry and materials science as a researcher from 2014 to 2022.
 
