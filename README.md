@@ -13,7 +13,8 @@
 #### I´m currently at the third year of graduation in Systems for Internet technologist course at UNISINOS. 
 #### In 2023 I started The Vocational Training internship program at SAP, and I´m currently working full time as an ABAP Developer.
 
-<img src="https://icons8.com.br/icon/38192/sap" width="60" title="SAP">
+![image](https://github.com/arthurExner/arthurExner/assets/104403898/22b1af7c-e0f8-40fe-9b92-f6d3cfa7757d)
+
 
 ---
 
