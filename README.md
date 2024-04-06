@@ -10,7 +10,7 @@
 
 <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="50" title="Java">  <img src="https://img.icons8.com/color/344/javascript--v1.png" width="50" title="Javascript" style="padding-left: 10px">  <img src="https://img.icons8.com/external-those-icons-flat-those-icons/344/external-HTML5-programming-and-development-those-icons-flat-those-icons.png" width="35" title="HTML5" style="padding-left: 8px">  <img src="https://img.icons8.com/color/344/css3.png" width="45" title="CSS3"> <img src="https://img.icons8.com/color/344/mysql-logo.png" width="46" title="MySQL">  <img src="https://img.icons8.com/color/344/git.png" width="45" title="Git" > <img src="https://img.icons8.com/3d-fluency/344/github.png" width="45" title="Github">  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" width="60" title="Cypress">
 
-#### I´m currently at the second year of graduation in Systems for Internet technologist course at UNISINOS. 
+#### I´m currently at the third year of graduation in Systems for Internet technologist course at UNISINOS. 
 #### In 2023 I started The Vocational Training internship program at SAP, and I´m currently working full time as an ABAP Developer. 
 ---
 
